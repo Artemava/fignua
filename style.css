@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+header{ background-color:red;
+ color:royalblue;
+border-radius: 10px;
+padding: 10px;
+}
+header img{ background-color:red;
+ border-radius: 10px;
+}
+h1{ 
+    color:aqua;
+background-color:black;
+}
+footer p{
+    background-color: darkgreen;
+    
+    color:chartreuse;
+}
+footer{
+     border: 10px dashed orange;
+}
+nav a{
+    background-color:rgb(107, 223, 107);
+border-radius: 5px;
+ font-size:20px;   
+ color:black;
+}
+.icon {
+    border: 2px solid blue;
+background-color:orchid;
+}
+h2{
+    color:royalblue;
+}
